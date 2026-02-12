@@ -1,0 +1,45 @@
+NTERNAL USE ONLY]
+
+## Reviewing AI Decisions
+
+### Check:
+
+.#ai-logs
+
+.Context of message
+
+.CRM user history
+
+## Scam Handling
+
+### If scam detected:
+
+.Immediate deletion
+
+.Ban user
+
+.Announce warning if necessary
+
+## Override Procedure
+
+### Moderators may:
+
+.Restore wrongly deleted message
+
+.Remove warnings
+
+.Adjust roles manually
+
+.Document overrides for transparency.
+
+## Governance Disputes
+
+### Keep discussion:
+
+.Civil
+
+.Evidence-based
+
+.Transparent
+
+.Escalate major disputes to core team.
