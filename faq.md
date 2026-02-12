@@ -101,3 +101,53 @@ Yes, by [Audit Firm Name]. Report: [link]
 
 ### Need urgent help?
 Tag @moderators in Discord #support channel
+
+### Is this token a financial investment?
+
+This community does not provide financial advice.
+Always do your own research (DYOR).
+
+### Where can I find official announcements?
+
+Official announcements are posted in:
+
+#announcements
+
+Official website
+
+Verified social channels
+
+### How do I verify official links?
+
+Only trust:
+
+Links shared by verified team members
+
+Official website domain
+
+Verified social media accounts
+
+Never trust direct messages (DMs).
+
+### How do I report a scam?
+
+Immediately report in:
+
+#moderator-alerts
+Or tag a Moderator.
+
+### How can I become a Contributor?
+
+Contributors are members who:
+
+Help answer questions
+
+Build tools
+
+Participate in governance
+
+Contribute to discussions constructively
+
+### What happens if the AI cannot answer my question?
+
+If the AI is unsure, it will tag a human Moderator to assist.
