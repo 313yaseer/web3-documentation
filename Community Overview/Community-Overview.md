@@ -1,53 +1,53 @@
-1. About This Web3 Community
+## 1. About This Web3 Community
 
 Welcome to the official community of [Project Name].
 
 This is a Web3-focused ecosystem built around:
 
-Decentralization
+.Decentralization
 
-Transparency
+.Transparency
 
-Security
+.Security
 
-Community governance
+.Community governance
 
-Long-term value creation
+.Long-term value creation
 
-This server exists to support:
+.This server exists to support:
 
-Token holders
+.Token holders
 
-Developers
+.Developers
 
-Contributors
+.Contributors
 
-Community members
+.Community members
 
-Newcomers to Web3
+.Newcomers to Web3
 
-2. Mission
+## 2. Mission
 
-Our mission is to:
+### Our mission is to:
 
-Build a secure and informed Web3 community
+.Build a secure and informed Web3 community
 
-Educate members about blockchain and DeFi
+.Educate members about blockchain and DeFi
 
-Prevent scams and malicious behavior
+.Prevent scams and malicious behavior
 
-Encourage responsible participation
+.Encourage responsible participation
 
-Support decentralized governance
+.Support decentralized governance
 
-3. Core Principles
+## 3. Core Principles
 
-Security First
+.Security First
 
-Transparency Always
+.Transparency Always
 
-Respect for All Members
+.Respect for All Members
 
-No Financial Manipulation
+.No Financial Manipulation
 
 Community-Driven Gr
