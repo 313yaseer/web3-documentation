@@ -1,119 +1,119 @@
-##Rule 1: No Scams or Fraud
+## Rule 1: No Scams or Fraud
 
-Strictly prohibited:
+### Strictly prohibited:
 
-Fake token promotions
+*Fake token promotions
 
-Phishing links
+*Phishing links
 
-Wallet drain links
+*Wallet drain links
 
-Airdrop scams
+*Airdrop scams
 
-Impersonating team members
+*Impersonating team members
 
-Fake investment opportunities
+.Fake investment opportunities
 
 Violation → Immediate ban.
 
-Rule 2: No Financial Advice
+## Rule 2: No Financial Advice
 
-Members must not:
+### Members must not:
 
-Give financial investment advice
+.Give financial investment advice
 
-Guarantee profits
+.Guarantee profits
 
-Promise returns
+.Promise returns
 
-Promote pump-and-dump schemes
+.prompt pump-and-dump schemes
 
-Use this disclaimer when needed:
+.Use this disclaimer when needed:
 
-This is not financial advice (NFA).
+.This is not financial advice (NFA).
 
-Rule 3: No Spam or Unsolicited Promotions
+## Rule 3: No Spam or Unsolicited Promotions
 
-Prohibited:
+### Prohibited:
 
-Repeated messages
+.Repeated messages
 
-Shilling unrelated tokens
+.Shilling unrelated tokens
 
-Referral link spam
+.Referral link spam
 
-Bot messages
+.Bot messages
 
-Mass tagging
+.Mass tagging
 
-Rule 4: No Price Manipulation or FUD
+## Rule 4: No Price Manipulation or FUD
 
-Prohibited behavior:
+### Prohibited behavior:
 
-Coordinated price manipulation
+.Coordinated price manipulation
 
-False rumors
+.False rumors
 
-Fear, uncertainty, and doubt (FUD) without evidence
+.Fear, uncertainty, and doubt (FUD) without evidence
 
-Market manipulation discussions
+.Market manipulation discussions
 
-Healthy discussions are allowed if respectful and fact-based.
+.Healthy discussions are allowed if respectful and fact-based.
 
-Rule 5: Respectful Communication
+## Rule 5: Respectful Communication
 
-Prohibited:
+### Prohibited:
 
-Hate speech
+.Hate speech
 
-Harassment
+.Harassment
 
-Racism
+.Racism
 
-Threats
+.Threats
 
-Personal attacks
+.Personal attacks
 
-Rule 6: No Wallet or Private Key Sharing
+## Rule 6: No Wallet or Private Key Sharing
 
-Never share:
+### Never share:
 
-Private keys
+.Private keys
 
-Seed phrases
+.Seed phrases
 
-Recovery phrases
+.Recovery phrases
 
-Sensitive wallet data
+.Sensitive wallet data
 
 The team will NEVER ask for your private keys.
 
-Rule 7: No Team Impersonation
+## Rule 7: No Team Impersonation
 
-Only official team members have verified roles.
+.Only official team members have verified roles.
 
-Impersonation leads to immediate ban.
+.Impersonation leads to immediate ban.
 
-Rule 8: Stay On Topic
+## Rule 8: Stay On Topic
 
-Use channels appropriately:
+### Use channels appropriately:
 
-Technical questions → #dev
+.Technical questions → #dev
 
-General chat → #general
+.General chat → #general
 
-Governance → #governance
+.Governance → #governance
 
-Support → #support
+.Support → #support
 
-Rule 9: No AI Prompt Manipulation
+## Rule 9: No AI Prompt Manipulation
 
-Do not attempt to:
+### Do not attempt to:
 
-Override bot behavior
+.Override bot behavior
 
-Inject system commands
+.Inject system commands
 
-Manipulate AI logic
+.Manipulate AI logic
 
 This is monitored and logged
